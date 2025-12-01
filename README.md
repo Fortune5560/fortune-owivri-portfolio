@@ -89,3 +89,71 @@ This portfolio showcases practical projects that demonstrate:
 
 ---
 
+# 📁 Featured Projects  
+A curated selection of hands-on IT Support and Cybersecurity projects demonstrating real-world troubleshooting, monitoring, and automation skills.
+
+---
+
+## 🔹 1️⃣ IT Support Case Study — 95% Issue Resolution
+
+<p align="center">
+  <img src="./IT_Support_Case_Study/thumbnail.svg" width="600" />
+</p>
+
+### 📌 Overview  
+A technical case study showcasing real IT Support work performed at Clearwox Systems.  
+Includes detailed troubleshooting workflows, ticket-based support, downtime reduction, and system optimization strategies.
+
+### 🧩 Tech Stack  
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
+![Networking](https://img.shields.io/badge/Networking-Basics-blue?style=for-the-badge)
+![Troubleshooting](https://img.shields.io/badge/Troubleshooting-Expert-green?style=for-the-badge)
+![Documentation](https://img.shields.io/badge/Documentation-Professional-yellow?style=for-the-badge)
+
+### 📁 Project Folder  
+👉 [Open Project](./IT_Support_Case_Study)
+
+---
+
+## 🔹 2️⃣ SOC Analyst Home Lab — SIEM Monitoring & Threat Detection
+
+<p align="center">
+  <img src="./SOC_Home_Lab_Project/thumbnail.svg" width="600" />
+</p>
+
+### 📌 Overview  
+A hands-on cybersecurity lab demonstrating SIEM configuration, log ingestion, threat detection, and incident response.  
+Designed to simulate real SOC Analyst workflows and alerts.
+
+### 🧩 Tech Stack  
+![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
+![Splunk](https://img.shields.io/badge/SIEM-Splunk%20%2F%20Wazuh-orange?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Incident%20Response-red?style=for-the-badge)
+
+### 📁 Project Folder  
+👉 [Open Project](./SOC_Home_Lab_Project)
+
+---
+
+## 🔹 3️⃣ Inventory Automation Web App — Workflow Optimization
+
+<p align="center">
+  <img src="./Automation_Web_App_Project/thumbnail.svg" width="600" />
+</p>
+
+### 📌 Overview  
+A lightweight web application built to automate routine inventory tasks for small businesses.  
+Demonstrates coding fundamentals, UI design, validation, and workflow automation.
+
+### 🧩 Tech Stack  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Automation](https://img.shields.io/badge/Automation-Workflow-green?style=for-the-badge)
+
+### 📁 Project Folder  
+👉 [Open Project](./Automation_Web_App_Project)
+
+---
+
