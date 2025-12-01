@@ -52,3 +52,40 @@ This portfolio showcases practical projects that demonstrate:
   <img src="https://img.shields.io/badge/Cybersecurity-In%20Progress-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Google%20Cybersecurity-In%20Progress-yellow?style=for-the-badge" />
   <img src="https://img.sh
+  # 📁 Featured Projects
+
+---
+
+### 1️⃣ IT Support Case Study — 95% Issue Resolution
+
+<p align="center">
+  <img src="./IT_Support_Case_Study/thumbnail.svg" width="600" />
+</p>
+
+📂 **Folder:** [IT Support Case Study](./IT_Support_Case_Study)  
+📝 Includes real troubleshooting, downtime reduction, and system optimization results.
+
+---
+
+### 2️⃣ SOC Analyst Home Lab — SIEM Monitoring & Threat Detection
+
+<p align="center">
+  <img src="./SOC_Home_Lab_Project/thumbnail.svg" width="600" />
+</p>
+
+📂 **Folder:** [SOC Home Lab Project](./SOC_Home_Lab_Project)  
+🛡 Shows SIEM setup, log analysis, detection rules, and a sample incident response report.
+
+---
+
+### 3️⃣ Inventory Automation Web App — Workflow Optimization
+
+<p align="center">
+  <img src="./Automation_Web_App_Project/thumbnail.svg" width="600" />
+</p>
+
+📂 **Folder:** [Automation Web App Project](./Automation_Web_App_Project)  
+⚙ A lightweight JavaScript tool for workflow automation and efficiency improvement.
+
+---
+
