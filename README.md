@@ -1,7 +1,10 @@
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Fortune%20Owivri-IT%20Support%20%7C%20Cybersecurity-blue?style=for-the-badge" />
-</p>
+
+<h3 align="center">
+    👋 Welcome! I combine expert IT support and system troubleshooting with advanced cybersecurity principles. <br>I focus on incident response, SIEM monitoring (Splunk/Wazuh), and automation to enhance system resilience.
+</h3>
+
+---
 
 <h1 align="center">💻 Fortune Owivri — IT Support & Cybersecurity Portfolio</h1>
 
@@ -13,37 +16,48 @@
 
 ## 👋 About Me
 
-I am an IT Support and Cybersecurity–driven professional with hands-on experience in technical troubleshooting, system optimization, ticket-based support, and foundational security analysis.  
+I am an IT Support and Cybersecurity–driven professional with hands-on experience in **technical troubleshooting, system optimization, ticket-based support, and foundational security analysis**. 
 I enjoy diagnosing problems, improving systems, and helping organizations build secure, reliable IT environments.
 
 This portfolio showcases practical projects that demonstrate:
-- IT Support & troubleshooting
-- SOC analyst readiness
-- SIEM monitoring & log analysis
-- Basic incident response
-- Web app development (lightweight automation)
-- Documentation & technical reporting
+* IT Support & troubleshooting
+* SOC analyst readiness
+* SIEM monitoring & log analysis
+* Basic incident response
+* Web app development (lightweight automation)
+* Documentation & technical reporting
 
 ---
 
 # ⚡ Skills & Tools
 
-### 🖥️ **Technical Skills**
-- IT Support • Help-Desk • Remote Desktop Support  
-- Windows OS • Basic Linux • Networking (CCNA level)  
-- System Optimization • Troubleshooting • Ticketing  
-- SIEM Basics (Splunk/Wazuh)  
-- Log Monitoring • Basic Incident Response  
-- HTML • CSS • JavaScript  
+### 🖥️ **Technical Skills & Concepts**
 
-### 🧰 **Tools**
-- Git & GitHub  
-- VS Code  
-- VirtualBox  
-- Windows Admin Tools  
-- Google Workspace  
-- Remote Support Tools (RDP, AnyDesk, etc.)
+#### 🛠️ IT Support & Systems
+* IT Support / Help-Desk / Remote Desktop Support
+* Windows OS Administration
+* Basic Linux CLI
+* Networking Fundamentals (CCNA level)
+* System Optimization & Performance Tuning
+* Troubleshooting & Ticketing Systems
 
+#### 🛡️ Cybersecurity & Monitoring
+* SIEM Basics (Splunk / Wazuh)
+* Log Analysis & Monitoring
+* Basic Incident Response Procedures
+* Threat Detection Concepts
+
+#### 💻 Programming & Automation
+* HTML / CSS
+* JavaScript Fundamentals
+* Workflow Automation (lightweight web apps)
+
+### 🧰 **Tools & Platforms**
+* **Virtualization:** VirtualBox / VMware
+* **Version Control:** Git & GitHub
+* **Code Editor:** VS Code
+* **Admin Utilities:** Windows Admin Tools, Google Workspace
+* **Remote Access:** RDP, AnyDesk, TeamViewer
 ---
 
 # 🏅 Badges
@@ -52,45 +66,11 @@ This portfolio showcases practical projects that demonstrate:
   <img src="https://img.shields.io/badge/IT%20Support-Expert-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cybersecurity-In%20Progress-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Google%20Cybersecurity-In%20Progress-yellow?style=for-the-badge" />
-  <img src="https://img.sh
-  # 📁 Featured Projects
-
----
-
-### 1️⃣ IT Support Case Study — 95% Issue Resolution
-
-<p align="center">
-  <img src="./IT_Support_Case_Study/thumbnail.svg" width="600" />
 </p>
 
-📂 **Folder:** [IT Support Case Study](./IT_Support_Case_Study)  
-📝 Includes real troubleshooting, downtime reduction, and system optimization results.
-
 ---
 
-### 2️⃣ SOC Analyst Home Lab — SIEM Monitoring & Threat Detection
-
-<p align="center">
-  <img src="./SOC_Home_Lab_Project/thumbnail.svg" width="600" />
-</p>
-
-📂 **Folder:** [SOC Home Lab Project](./SOC_Home_Lab_Project)  
-🛡 Shows SIEM setup, log analysis, detection rules, and a sample incident response report.
-
----
-
-### 3️⃣ Inventory Automation Web App — Workflow Optimization
-
-<p align="center">
-  <img src="./Automation_Web_App_Project/thumbnail.svg" width="600" />
-</p>
-
-📂 **Folder:** [Automation Web App Project](./Automation_Web_App_Project)  
-⚙ A lightweight JavaScript tool for workflow automation and efficiency improvement.
-
----
-
-# 📁 Featured Projects  
+# 📁 Featured Projects
 A curated selection of hands-on IT Support and Cybersecurity projects demonstrating real-world troubleshooting, monitoring, and automation skills.
 
 ---
@@ -101,17 +81,17 @@ A curated selection of hands-on IT Support and Cybersecurity projects demonstrat
   <img src="./IT_Support_Case_Study/thumbnail.svg" width="600" />
 </p>
 
-### 📌 Overview  
-A technical case study showcasing real IT Support work performed at Clearwox Systems.  
+### 📌 Overview
+A technical case study showcasing real IT Support work performed at Clearwox Systems.
 Includes detailed troubleshooting workflows, ticket-based support, downtime reduction, and system optimization strategies.
 
-### 🧩 Tech Stack  
+### 🧩 Tech Stack
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
 ![Networking](https://img.shields.io/badge/Networking-Basics-blue?style=for-the-badge)
 ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-Expert-green?style=for-the-badge)
 ![Documentation](https://img.shields.io/badge/Documentation-Professional-yellow?style=for-the-badge)
 
-### 📁 Project Folder  
+### 📁 Project Folder
 👉 [Open Project](./IT_Support_Case_Study)
 
 ---
@@ -122,17 +102,17 @@ Includes detailed troubleshooting workflows, ticket-based support, downtime redu
   <img src="./SOC_Home_Lab_Project/thumbnail.svg" width="600" />
 </p>
 
-### 📌 Overview  
-A hands-on cybersecurity lab demonstrating SIEM configuration, log ingestion, threat detection, and incident response.  
+### 📌 Overview
+A hands-on cybersecurity lab demonstrating SIEM configuration, log ingestion, threat detection, and incident response.
 Designed to simulate real SOC Analyst workflows and alerts.
 
-### 🧩 Tech Stack  
+### 🧩 Tech Stack
 ![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
 ![Splunk](https://img.shields.io/badge/SIEM-Splunk%20%2F%20Wazuh-orange?style=for-the-badge)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Incident%20Response-red?style=for-the-badge)
 
-### 📁 Project Folder  
+### 📁 Project Folder
 👉 [Open Project](./SOC_Home_Lab_Project)
 
 ---
@@ -143,26 +123,21 @@ Designed to simulate real SOC Analyst workflows and alerts.
   <img src="./Automation_Web_App_Project/thumbnail.svg" width="600" />
 </p>
 
-### 📌 Overview  
-A lightweight web application built to automate routine inventory tasks for small businesses.  
+### 📌 Overview
+A lightweight web application built to automate routine inventory tasks for small businesses.
 Demonstrates coding fundamentals, UI design, validation, and workflow automation.
 
-### 🧩 Tech Stack  
+### 🧩 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Automation](https://img.shields.io/badge/Automation-Workflow-green?style=for-the-badge)
 
-### 📁 Project Folder  
+### 📁 Project Folder
 👉 [Open Project](./Automation_Web_App_Project)
 
 ---
 
-<h3 align="center">
-    👋 Welcome! I combine expert IT support and system troubleshooting with advanced cybersecurity principles. <br>I focus on incident response, SIEM monitoring (Splunk/Wazuh), and automation to enhance system resilience.
-</h3>
-
----
 # 🎯 Ready for the Next Opportunity — Hire Me
 
 I am actively seeking roles that leverage my combined expertise in **IT Support, System Administration, and Cybersecurity (SOC Analyst)**.
@@ -185,4 +160,3 @@ I am actively seeking roles that leverage my combined expertise in **IT Support,
 > **🔥 Quick Access:** If you are a recruiter, please view my detailed project case studies in the **Featured Projects** section above. My **SOC Analyst Home Lab** project is highly relevant for security roles.
 
 ---
-
