@@ -154,9 +154,8 @@ I am actively seeking roles that leverage my combined expertise in **IT Support,
 
 | Contact Method | Details |
 | :--- | :--- |
-| **LinkedIn** | [www.linkedin.com/in/fortune-owivri-9a4504289] |
-| **Email** | [fortuneowivri@gmail.com] |
+| **LinkedIn** | [Fortune Owivri on LinkedIn](https://www.linkedin.com/in/fortune-owivri-9a4504289) |
+| **Email** | [fortuneowivri@gmail.com](mailto:fortuneowivri@gmail.com) |
 
-> **🔥 Quick Access:** If you are a recruiter, please view my detailed project case studies in the **Featured Projects** section above. My **SOC Analyst Home Lab** project is highly relevant for security roles.
-
+> **⭐ Quick Note to Recruiters:** My **SOC Analyst Home Lab** project is a direct demonstration of entry-level security monitoring and incident response capabilities.
 ---
