@@ -1,0 +1,10 @@
+<svg width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="300" fill="#08121f"/>
+  <rect x="20" y="20" width="560" height="260" rx="20" fill="#112233" stroke="#00ffa6" stroke-width="3"/>
+  <text x="50%" y="45%" fill="#00ffa6" font-family="Arial" font-size="32" text-anchor="middle">
+    AUTOMATION WEB APP
+  </text>
+  <text x="50%" y="70%" fill="#8affd7" font-family="Arial" font-size="20" text-anchor="middle">
+    HTML • CSS • JavaScript • Workflow Automation
+  </text>
+</svg>
