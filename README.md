@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://img.shields.io/badge/Fortune%20Owivri-IT%20Support%20%7C%20Cybersecurity-blue?style=for-the-badge" />
 </p>
@@ -154,6 +155,34 @@ Demonstrates coding fundamentals, UI design, validation, and workflow automation
 
 ### 📁 Project Folder  
 👉 [Open Project](./Automation_Web_App_Project)
+
+---
+
+<h3 align="center">
+    👋 Welcome! I combine expert IT support and system troubleshooting with advanced cybersecurity principles. <br>I focus on incident response, SIEM monitoring (Splunk/Wazuh), and automation to enhance system resilience.
+</h3>
+
+---
+# 🎯 Ready for the Next Opportunity — Hire Me
+
+I am actively seeking roles that leverage my combined expertise in **IT Support, System Administration, and Cybersecurity (SOC Analyst)**.
+
+---
+
+### ⭐ Core Value Proposition
+
+* **Cybersecurity Focus:** Proven ability to configure SIEMs (Splunk/Wazuh), analyze security logs, and execute Tier 1/2 incident response protocols in a home lab environment.
+* **IT Support Excellence:** Strong track record in troubleshooting complex Windows/Linux environments, network issues, and providing high-quality ticket-based support.
+* **Automation/Efficiency:** Experience with scripting (JavaScript) and workflow optimization to reduce downtime and improve operational efficiency.
+
+### 📧 Get In Touch
+
+| Contact Method | Details |
+| :--- | :--- |
+| **LinkedIn** | [www.linkedin.com/in/fortune-owivri-9a4504289] |
+| **Email** | [fortuneowivri@gmail.com] |
+
+> **🔥 Quick Access:** If you are a recruiter, please view my detailed project case studies in the **Featured Projects** section above. My **SOC Analyst Home Lab** project is highly relevant for security roles.
 
 ---
 
