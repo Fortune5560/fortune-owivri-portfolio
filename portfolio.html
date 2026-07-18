@@ -1,36 +1,31 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Fortune Owivri — IT Support & Cybersecurity Portfolio</title>
-    <style>
-        body { font-family: Arial, sans-serif; background: #f7f7f7; padding: 40px; }
-        .container { max-width: 900px; margin: auto; background: white; padding: 30px; border-radius: 10px; }
-        h1 { color: #222; }
-        .project { margin-bottom: 30px; padding-bottom: 20px; border-bottom: 1px solid #ccc; }
-        h2 { color: #333; }
-        p { color: #444; line-height: 1.5; }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fortune Owivri — Portfolio</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;600;800&display=swap');
+:root{--bg:#0b0c15;--card:#111228;--text:#e6e6f0;--accent:#00d4aa;}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Inter',sans-serif;background:linear-gradient(135deg,#0b0c15,#1a1b2e);color:var(--text);min-height:100vh;padding:60px 20px}
+.container{max-width:960px;margin:auto;background:rgba(255,255,255,0.03);backdrop-filter:blur(12px);border:1px solid rgba(255,255,255,0.05);border-radius:24px;padding:50px;box-shadow:0 30px 60px rgba(0,0,0,.5)}
+h1{font-weight:800;font-size:3rem;background:linear-gradient(90deg,var(--accent),#00a8e8);-webkit-background-clip:text;-webkit-text-fill-color:transparent;margin-bottom:10px}
+p.subtitle{color:#9aa0b0;margin-bottom:40px;font-size:1.1rem}
+.project{background:var(--card);border-radius:16px;padding:30px;margin-bottom:24px;border-left:4px solid var(--accent);transition:transform .2s}
+.project:hover{transform:translateY(-4px)}
+h2{font-weight:600;font-size:1.4rem;margin-bottom:10px;color:#fff}
+.project p{line-height:1.6;color:#c2c6d6}
+</style>
 </head>
 <body>
 <div class="container">
-    <h1>Fortune Owivri — Portfolio</h1>
-    <p>Welcome to my professional IT Support & Cybersecurity portfolio. This page highlights practical experience across troubleshooting, system optimization, and SOC Analyst fundamentals.</p>
-
-    <div class="project">
-        <h2>1. IT Support Case Study</h2>
-        <p>Real-world troubleshooting examples, 95% issue resolution rate, and a 30% downtime reduction.</p>
-    </div>
-
-    <div class="project">
-        <h2>2. SOC Analyst Home Lab</h2>
-        <p>Hands-on SIEM monitoring, log analysis, and basic incident response workflow demonstration.</p>
-    </div>
-
-    <div class="project">
-        <h2>3. Inventory Automation Web App</h2>
-        <p>A lightweight JavaScript-powered automation tool improving workflow speed and accuracy.</p>
-    </div>
-
+<h1>Fortune Owivri</h1>
+<p class="subtitle">IT Support & Cybersecurity Portfolio</p>
+<div class="project"><h2>IT Support Case Study</h2><p>Real-world troubleshooting, 95% resolution rate, 30% downtime reduction.</p></div>
+<div class="project"><h2>SOC Analyst Home Lab</h2><p>SIEM monitoring, log analysis, incident response workflow.</p></div>
+<div class="project"><h2>Inventory Automation Web App</h2><p>JavaScript-powered automation improving workflow speed and accuracy. <a href="Automation_Web_App_Project.pdf" style="color:var(--accent)">PDF</a></p></div>
+<p style="margin-top:30px;color:#9aa0b0;">Contact: fortune@example.com | Lagos, NG</p>
 </div>
 </body>
 </html>
